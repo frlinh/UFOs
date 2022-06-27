@@ -8,24 +8,22 @@ Created a webpage and dynamic table using data research funded by W. Avy, a UFO-
 - Software: JavaScript, HTML, and CSS
 
 ## Features
-Users can enter single criteria or multiple criteria in the search fields located on the left side of the webpage.  The dynamic table on the right will filter the UFO sightings based on the user’s input.  As shown below, users can filter the UFO sightings based on a specific Date and State. 
+Users can enter single criteria or multiple criteria in the search fields located on the left side of the webpage.  The dynamic table on the right will filter the UFO sightings based on the user’s input.  For example, users can filter UFO sightings based on a specific Date and State as shown in the image below.
 
 ![search_date_state](https://github.com/frlinh/UFOs/blob/ebebacb2db08b05c937e8737b5b8f91129d13908/static/images/mission-to-mars-search-state.png)
 
-Users can enter and filter UFO sightings by City.
+Users can filter UFO sightings by City as shown in the image below.
 
 ![search_city](https://github.com/frlinh/UFOs/blob/ebebacb2db08b05c937e8737b5b8f91129d13908/static/images/mission-to-mars-search-city.png)
 
-Users can also enter and filter UFO sightings by UFO Shape.  
+Users can also filter UFO sightings by UFO Shape as shown in the image below. 
 
 ![search_shape](https://github.com/frlinh/UFOs/blob/ebebacb2db08b05c937e8737b5b8f91129d13908/static/images/mission-to-mars-search-shape.png)
 
 ## Summary
 Limitations:
-- The search fields are case-sensitive. 
-     This can steer users away if they are unable to generate results caused by the case sensitivity.
-- Only one input is allowed for each field.
-     This is limiting in case users want to search results for multiple Cities or States, or even results within a date range.
+- The search fields are case-sensitive.  This can steer users away if they are unable to generate results caused by the case sensitivity.
+- Only one input is allowed for each field.  This is limiting in case users want to search results for multiple Cities or States, or even results within a date range.
 
 Development recommendations:
 - Add a date range option for the Date field
