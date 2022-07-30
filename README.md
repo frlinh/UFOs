@@ -23,7 +23,7 @@ Users can also filter UFO sightings by UFO Shape as shown in the image below.
 ## Summary
 Limitations:
 - The search fields are case-sensitive.  This can steer users away if they are unable to generate results caused by the case sensitivity.
-- Only one input is allowed for each field.  This is limiting in case users want to search results for multiple Cities or States, or even results within a date range.
+- The search field only allows one input at a time.  This is limiting in case users want to search results for multiple Cities or States, or even results within a date range.
 
 Development recommendations:
 - Add a date range option for the Date field
